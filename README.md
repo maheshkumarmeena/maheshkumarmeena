@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshkumarmeena
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Scala
+- 👀 I’m interested in Programming and Technology
+- 🌱 I’m currently learning Scala,javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
